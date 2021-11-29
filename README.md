@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>Oi oi! Eu sou a Alany Mara Silva Fernandes</strong>
+  <strong>Oi oi! Eu sou a Alany Mara Silva Fernandes</strong> <br>
   <strong>Hi! I'm Alany Mara Silva Fernandes</strong>
   <br>
     <br>
