@@ -1,8 +1,8 @@
 <div align="center">
-  <strong>Oi oi! Eu sou a Alany Mara Silva Fernandes</strong> <br>
-  <strong>Hi! I'm Alany Mara Silva Fernandes</strong>
+  <strong>Oi oi! Eu sou a Alany Fernandes</strong> <br>
+  <strong align="">Hi! I'm Alany Fernandes</strong>
   <br>
-    <br>
+  <br>
   </div>
 <div align="center">
   <a href="https://github.com/alanymara">
