@@ -9,7 +9,7 @@
     <li>- 📫 Contato: alanymara@gmail.com</li>
   </div>
 </p>
-  <h2>I'm Alany Fernandes and wellcome to my GitHub! </h2> <br>
+  <h2>I'm Alany Fernandes and wellcome to my GitHub! </h2>
 <p>I'm from Fortaleza-CE, I'm 26 years old and I have a degree in Busyness from the Federal University of Ceará. I love to venture into the world of sports and test my limits. Today I'm a full stack web development student at Trybe and every day I'm getting more and more adventurous and enchanted by this new world!</p>
 
   <div align="left" style="display: inline_block">
