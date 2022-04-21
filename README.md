@@ -1,9 +1,25 @@
-<div align="center">
-  <strong>Oi oi! Eu sou a Alany Fernandes</strong> <br>
-  <strong align="">Hi! I'm Alany Fernandes</strong>
-  <br>
-  <br>
+# Bem-vindo(a), eu me chamo Alany Fernandes!
+<div>
+  <p>Sou de Fortaleza-CE, tenho 26 anos e sou formada em Administração pela Universidade Federal do Ceará. Amo me aventurar no mundo dos esportes e testar meus limites. Hoje sou estudante de desenvolvimento web full stack na Trybe e a cada dia me aventuro e me encanto cada vez mais por esse novo mundo!</p>
+
+  <div align="left" style="display: inline_block">
+    <li>- 🌱 Aprendendo Docker e MySQL</li>
+    <li>- 💬 Pode me chamar pra um papo sobre qualquer assunto de tecnologia, estou sempre disposta a colaborar e a aprender.</li>
+    <li>- ⚡ Fato interessante: Já fui jogadora de Handebol defendendo minha universidade.</li>
+    <li>- 📫 Contato: alanymara@gmail.com</li>
   </div>
+</p>
+  <h1>I'm Alany Fernandes and wellcome to my GitHub! </h1> <br>
+<p>I'm from Fortaleza-CE, I'm 26 years old and I have a degree in Administration from the Federal University of Ceará. I love to venture into the world of sports and test my limits. Today I'm a full stack web development student at Trybe and every day I'm getting more and more adventurous and enchanted by this new world!</p>
+
+  <div align="left" style="display: inline_block">
+    <li>- 🌱 Learning Docker and MySQL</li>
+    <li>- 💬 You can call me for a chat about any technology topic, I'm always willing to collaborate and learn.</li>
+    <li>- ⚡ Interesting fact: I used to be a Handball player defending my university.</li>
+    <li>- 📫 Contact me: alanymara@gmail.com</li>
+  </div>
+  </div>
+  <br>
 <div align="center">
   <a href="https://github.com/alanymara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanymara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,9 +27,8 @@
 </div>
   
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Alany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
 
   ##
    
