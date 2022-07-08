@@ -1,9 +1,9 @@
 <div>
-<h2>I'm Alany Fernandes and wellcome to my GitHub! </h2>
+<h2>I'm Alany Fernandes and Wellcome to my GitHub! </h2>
 <p>I'm from Fortaleza-CE, I'm 26 years old and I have a degree in Business from the Federal University of Ceará. I love to venture into the world of sports and test my limits. Today I'm a full stack web development student at Trybe and every day I'm getting more and more adventurous and enchanted by this new world!</p>
 
   <div align="left" style="display: inline_block">
-    <li>- 🌱 Learning Docker and MySQL</li>
+    <li>- 🌱 Learning TypeScript</li>
     <li>- 💬 You can call me for a chat about any technology topic, I'm always willing to collaborate and learn.</li>
     <li>- ⚡ Interesting fact: I used to be a Handball player defending my university.</li>
     <li>- 📫 Contact me: alanymara@gmail.com</li>
